@@ -16,17 +16,12 @@ export default function Appbar() {
 
                 <ul className="flex gap-4 items-center">
                     <li>
-                        <Link href="https://x.com/fardeen14693425">
-                            <FaSquareXTwitter className="w-4 h-4 hover:scale-110 transition-all duration-300" />
-                        </Link>
-                    </li>
-                    <li>
-                        <Link href="https://fardeen.tech/">
+                        <Link href="https://hmriduhash.netlify.app/">
                             <GiWireframeGlobe className="w-4 h-4 hover:scale-110 transition-all duration-300" />
                         </Link>
                     </li>
                     <li>
-                        <Link href="https://github.com/Fardeen26">
+                        <Link href="https://github.com/harshmriduhash">
                             <FaGithub className="w-4 h-4 hover:scale-110 transition-all duration-300" />
                         </Link>
                     </li>
